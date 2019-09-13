@@ -1,0 +1,38 @@
+body{font-family:sans-serif; }
+.result{ font-family:courier;}
+.resultFrame{
+  border:solid 0px red;
+  overflow:hidden;
+  padding:0 0 0 20px;
+}
+#editorFrame{
+  
+  /*float:left;*/
+}
+ul{
+
+  width:400px;
+  padding:0;
+  margin:0;
+  overflow:hidden;
+  border:3px solid #F95;
+}
+li{
+  font-size:.2em;  
+  float:left;
+  display:inline-table;
+}
+li div {
+
+  border:1px solid #DDD;
+  text-align:center;
+  line-height: 48px;
+  height:48px;
+  width:48px;
+
+}
+.bgOn{
+  background-color:#444; 
+  color:#eee;
+
+}
