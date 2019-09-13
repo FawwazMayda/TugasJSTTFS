@@ -1,3 +1,4 @@
+
 function mapping(kelas){
     if (kelas=='A'){
         return [1,0,0,0]
